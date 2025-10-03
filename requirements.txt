@@ -1,0 +1,7 @@
+openai-whisper==20231117
+torch>=2.3
+tqdm>=4.66
+srt>=3.5
+python-dotenv>=1.0
+requests>=2.31
+numpy<2
